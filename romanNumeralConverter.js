@@ -42,6 +42,7 @@ function convertToRoman(num) {
     return romanNum;
 }
 
+console.log(convertToRoman(1992));
 console.log(convertToRoman(2), //should return the string II.
 convertToRoman(3), //should return the string III.
 convertToRoman(4), //should return the string IV.
